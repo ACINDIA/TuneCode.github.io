@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HTML &#8211; TuneCode</title>
+	<atom:link href="https://acindia.github.io/TuneCode.github.io/category/code-languages/html/feed/" rel="self" type="application/rss+xml" />
+	<link>https://acindia.github.io/TuneCode.github.io</link>
+	<description>Tune your Code here</description>
+	<lastBuildDate>Mon, 25 Apr 2022 13:10:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>about html</title>
+		<link>https://acindia.github.io/TuneCode.github.io/about-html/</link>
+					<comments>https://acindia.github.io/TuneCode.github.io/about-html/#respond</comments>
+		
+		<dc:creator><![CDATA[TuneCode]]></dc:creator>
+		<pubDate>Sat, 23 Apr 2022 14:05:15 +0000</pubDate>
+				<category><![CDATA[HTML]]></category>
+		<guid isPermaLink="false">https://acindia.github.io/TuneCode.github.io/?p=578</guid>
+
+					<description><![CDATA[The Hyper Text Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for &#8230;<p class="read-more"> <a class="" href="https://acindia.github.io/TuneCode.github.io/about-html/"> <span class="screen-reader-text">about html</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="578" class="elementor elementor-578">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e006f5e elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="e006f5e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a292282" data-id="a292282" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-700e25f elementor-widget elementor-widget-image" data-id="700e25f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.4 - 13-04-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1024" height="683" src="https://acindia.github.io/TuneCode.github.io/wp-content/uploads/2022/04/bg1_ccexpress-1024x683.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://acindia.github.io/TuneCode.github.io/wp-content/uploads/2022/04/bg1_ccexpress-1024x683.png 1024w, https://acindia.github.io/TuneCode.github.io/wp-content/uploads/2022/04/bg1_ccexpress-300x200.png 300w, https://acindia.github.io/TuneCode.github.io/wp-content/uploads/2022/04/bg1_ccexpress-768x512.png 768w, https://acindia.github.io/TuneCode.github.io/wp-content/uploads/2022/04/bg1_ccexpress-1536x1024.png 1536w, https://acindia.github.io/TuneCode.github.io/wp-content/uploads/2022/04/bg1_ccexpress-2048x1366.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-8701d58 elementor-widget elementor-widget-text-editor" data-id="8701d58" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.4 - 13-04-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>The <b>Hyper Text Markup Language</b> or <b>HTML</b> is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.</p><p>Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.</p><p>HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by <i>tags</i>, written using angle brackets. Tags such as <code id="" class="mw-highlight mw-highlight-lang-html mw-content-ltr" dir="ltr"><span class="p">&lt;</span><span class="nt">img</span> <span class="p">/&gt;</span></code> and <code id="" class="mw-highlight mw-highlight-lang-html mw-content-ltr" dir="ltr"><span class="p">&lt;</span><span class="nt">input</span> <span class="p">/&gt;</span></code> directly introduce content into the page. Other tags such as <code id="" class="mw-highlight mw-highlight-lang-html mw-content-ltr" dir="ltr"><span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span></code> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags but use them to interpret the content of the page.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://acindia.github.io/TuneCode.github.io/about-html/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
